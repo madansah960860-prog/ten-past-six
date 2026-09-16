@@ -1,0 +1,5 @@
+# ads.txt for https://www.tenpastsix.com
+# Authorised Digital Sellers, IAB Tech Lab specification 1.1.
+# Ten Past Six, Chicago, Illinois. Display advertising only.
+# Replace the publisher ID below with the real one before going live.
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0

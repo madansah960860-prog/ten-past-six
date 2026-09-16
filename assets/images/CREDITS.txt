@@ -1,0 +1,124 @@
+IMAGE CREDITS  -  Ten Past Six
+==============================
+Every photograph below came from Pexels and is used under the Pexels License
+(free for commercial and non-commercial use, attribution not required; the
+photographer is named as a courtesy where Pexels provided one). Each file was
+resized, cropped and re-compressed locally. Nothing here is hotlinked.
+The hand-drawn SVG mark, the favicon and the big two-digit clock numbers are
+drawn in code, not photographed.
+
+hero/hero-pan.jpg
+    source      : https://www.pexels.com/photo/colorful-vegetable-pasta-stir-fry-in-a-pan-28802015/
+    direct file : https://images.pexels.com/photos/28802015/pexels-photo-28802015.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1800x1012   size: 297KB
+
+recipes/garlic-butter-noodles.jpg
+    source      : https://www.pexels.com/photo/delicious-noodle-dish-with-herbs-and-chopsticks-30506288/
+    direct file : https://images.pexels.com/photos/30506288/pexels-photo-30506288.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1000x1000   size: 150KB
+
+recipes/chilli-paneer.jpg
+    source      : https://www.pexels.com/photo/delicious-paneer-tikka-masala-dish-close-up-30858402/
+    direct file : https://images.pexels.com/photos/30858402/pexels-photo-30858402.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1000x1000   size: 170KB
+
+recipes/tuna-white-bean-salad.jpg
+    source      : https://www.pexels.com/photo/bowl-of-delicious-stewed-chickpeas-with-onion-4149256/
+    direct file : https://images.pexels.com/photos/4149256/pexels-photo-4149256.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1000x1000   size: 210KB
+
+recipes/egg-fried-rice.jpg
+    source      : https://www.pexels.com/photo/food-with-chilies-on-blue-and-white-bowl-14231734/
+    direct file : https://images.pexels.com/photos/14231734/pexels-photo-14231734.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1000x1000   size: 110KB
+
+recipes/chana-masala.jpg
+    source      : https://www.pexels.com/photo/close-up-of-chana-masala-9287032/
+    direct file : https://images.pexels.com/photos/9287032/pexels-photo-9287032.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1000x1000   size: 227KB
+
+recipes/sheet-pan-gnocchi.jpg
+    source      : https://www.pexels.com/photo/cooked-dish-on-cast-iron-7213095/
+    direct file : https://images.pexels.com/photos/7213095/pexels-photo-7213095.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1000x1000   size: 218KB
+
+steps/step-eggs-in-pan.jpg
+    source      : https://www.pexels.com/photo/fried-eggs-on-pan-4827147/
+    direct file : https://images.pexels.com/photos/4827147/pexels-photo-4827147.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 65KB
+
+steps/step-noodles-tossing.jpg
+    source      : https://www.pexels.com/photo/stir-fried-noodles-with-vegetables-37165674/
+    direct file : https://images.pexels.com/photos/37165674/pexels-photo-37165674.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 158KB
+
+steps/step-roasting-tray.jpg
+    source      : https://www.pexels.com/photo/baked-mushrooms-and-tomatoes-dish-5500991/
+    direct file : https://images.pexels.com/photos/5500991/pexels-photo-5500991.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 139KB
+
+steps/step-mise-en-place.jpg
+    source      : https://www.pexels.com/photo/various-ingredients-and-frying-pan-on-table-5908036/
+    direct file : https://images.pexels.com/photos/5908036/pexels-photo-5908036.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 141KB
+
+steps/step-pan-greens.jpg
+    source      : https://www.pexels.com/photo/mushrooms-and-spinach-19653600/
+    direct file : https://images.pexels.com/photos/19653600/pexels-photo-19653600.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 118KB
+
+steps/step-gnocchi-pan.jpg
+    source      : https://www.pexels.com/photo/a-gnocchi-on-a-frying-pan-6659694/
+    direct file : https://images.pexels.com/photos/6659694/pexels-photo-6659694.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 83KB
+
+author/author-marcus-obi.jpg
+    source      : https://www.pexels.com/photo/man-in-yellow-and-black-hoodie-9563101/
+    direct file : https://images.pexels.com/photos/9563101/pexels-photo-9563101.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 560x700   size: 47KB
+
+og/og-ten-past-six.jpg
+    source      : https://www.pexels.com/photo/vegetable-dish-2181151/
+    direct file : https://images.pexels.com/photos/2181151/pexels-photo-2181151.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1200x630   size: 189KB
+
+
+--- replacement, %s ---
+
+recipes/tuna-white-bean-salad.jpg
+    source      : https://www.pexels.com/photo/stout-with-beans-in-white-bowl-10468384/
+    direct file : https://images.pexels.com/photos/10468384/pexels-photo-10468384.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1000x1000   size: 213KB
+
